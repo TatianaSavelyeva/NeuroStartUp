@@ -1,1 +1,1 @@
-# NEURO START UP
+# NeuroStartUp
